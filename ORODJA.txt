@@ -1,0 +1,18 @@
+DESIGN: 
+figma
+
+FRONTEND:
+react
+bootstrap
+
+BACKEND:
+mongo
+node 
+
+
+
+TODO?
+typeORM ?
+docker ?
+API ?
+
